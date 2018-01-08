@@ -1,5 +1,5 @@
 ### 文档目录介绍
-
+``` java
 ├── README.md 
 ├── build                         构建脚本目录
 │   ├── build.js //                 生产环境构建脚本
@@ -45,7 +45,7 @@
         ├── jest.conf.js
         ├── setup.js
         └── specs
-
+``` 
 #### 所用命令
 - npm run start 启动项目
 - npm run build 压缩静态文件
